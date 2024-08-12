@@ -25,3 +25,9 @@
 [submodule "modules/mod-keep-out"]
 	path = modules/mod-keep-out
 	url = https://github.com/azerothcore/mod-keep-out.git
+[submodule "modules/--name"]
+	path = modules/--name
+	url = https://github.com/jrc13245/mod-item-level-up.git
+[submodule "modules/mod-item-level-up"]
+	path = modules/mod-item-level-up
+	url = https://github.com/jrc13245/mod-item-level-up.git
