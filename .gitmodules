@@ -1,0 +1,30 @@
+[submodule "modules/mod-ah-bot"]
+	path = modules/mod-ah-bot
+	url = https://github.com/azerothcore/mod-ah-bot.git
+[submodule "modules/mod-aoe-loot"]
+	path = modules/mod-aoe-loot
+	url = https://github.com/azerothcore/mod-aoe-loot.git
+[submodule "modules/mod-autobalance"]
+	path = modules/mod-autobalance
+	url = https://github.com/azerothcore/mod-autobalance.git
+[submodule "modules/mod-better-item-reloading"]
+	path = modules/mod-better-item-reloading
+	url = https://github.com/azerothcore/mod-better-item-reloading.git
+[submodule "modules/mod-eluna"]
+	path = modules/mod-eluna
+	url = https://github.com/azerothcore/mod-eluna.git
+[submodule "modules/mod-item-level-up"]
+	path = modules/mod-item-level-up
+	url = https://github.com/azerothcore/mod-item-level-up.git
+[submodule "modules/mod-transmog"]
+	path = modules/mod-transmog
+	url = https://github.com/azerothcore/mod-transmog.git
+[submodule "modules/azerothcore-reforging"]
+	path = modules/azerothcore-reforging
+	url = https://github.com/silviu20092/azerothcore-reforging.git
+[submodule "modules/mod-reforging"]
+	path = modules/mod-reforging
+	url = https://github.com/jrc13245/mod-reforging.git
+[submodule "modules/mod-keep-out"]
+	path = modules/mod-keep-out
+	url = https://github.com/azerothcore/mod-keep-out.git
