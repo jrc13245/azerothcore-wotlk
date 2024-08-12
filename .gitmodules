@@ -13,9 +13,6 @@
 [submodule "modules/mod-eluna"]
 	path = modules/mod-eluna
 	url = https://github.com/azerothcore/mod-eluna.git
-[submodule "modules/mod-item-level-up"]
-	path = modules/mod-item-level-up
-	url = https://github.com/azerothcore/mod-item-level-up.git
 [submodule "modules/mod-transmog"]
 	path = modules/mod-transmog
 	url = https://github.com/azerothcore/mod-transmog.git
